@@ -112,43 +112,43 @@ The following analyses were performed.
 
 ### Database Tables
 
-![Database](images/creat_dataframes.png)
+![Database](./images/creat_dataframes.png)
 
 ---
 
 ### Merge Three DataFrames
 
-![Merge](images/merge_dataframe.png)
+![Merge](./images/merge_dataframe.png)
 
 ---
 
 ### Monthly Churn Trend
 
-![Trend](images/monthly_churn.png)
+![Trend](./images/monthly_churn.png)
 
 ---
 
 ### Churn by Plan Type
 
-![Plan Type](images/plan_type.png)
+![Plan Type](./images/plan_type.png)
 
 ---
 
 ### Churn by State
 
-![State](images/state_churn.png)
+![State](./images/state_churn.png)
 
 ---
 
 ### Correlation Heatmap
 
-![Heatmap](images/heatmap.png)
+![Heatmap](./images/heatmap.png)
 
 ---
 
 ### Pairplot
 
-![Pairplot](images/pairplot.png)
+![Pairplot](./images/pairplot.png)
 
 ---
 
