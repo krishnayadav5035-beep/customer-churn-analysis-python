@@ -227,7 +227,7 @@ Aspiring Data Analyst
 
 🔗 LinkedIn: www.linkedin.com/in/krishna-yadav-612445392
 
-💻 GitHub: *https://github.com/your-username*
+💻 GitHub: https://github.com/krishnayadav5035-beep
 
 ---
 
